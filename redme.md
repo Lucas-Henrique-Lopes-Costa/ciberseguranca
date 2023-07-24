@@ -8,7 +8,7 @@ header: 'André A., Lucas H., Pedro G., Gustavo T., Davi A., Gustavo F.'
 
 André Araújo Mendonça
 Lucas Henrique Lopes Costa
-Pedro Gonçalves Melo
+Pedro Gonçalves Costa Melo
 Gustavo de Jesus Teodoro
 Davi Aziz Santos Salazar
 Gustavo Henrique Moraes Filho
@@ -16,19 +16,22 @@ Gustavo Henrique Moraes Filho
 ---
 
 # Introdução
-Contexto
-
-* Tópico A
-* Tópico B
-* Tópico C
 
 ---
 
-# Objetivo do relatório
+## Contexto
 
-* Tópico A
-* Tópico B
-* Tópico C
+* Origem da Internet
+* A pica do Lucas é ENORME (8.3 cm é pequeno, lucas)
+* Armazenamento de Dados
+
+---
+
+## Objetivo do relatório
+
+* Temas Relevantes (Fundamentação Teórica)
+* A Ciber Segurança
+* Conclusão
 
 ---
 
@@ -42,27 +45,35 @@ Contexto
 
 ---
 
-# O que é …. ?
+# O que é ...?
 
-## Definição
+---
 
-* Tópico A
-* Tópico B
-* Tópico C
+## Definição de cibersegurança
+
+* Segurança de Rede
+* Segurança de Aplicativo
+* Segurança de Informações
+* Segurança Operacional
+* Recuperação de Desastres e Continuidade dos Negócios
+* Educação do Usuário Final
 
 ---
 
 ## Exemplos de aplicações
 
-* Tópico A
-* Tópico B
-* Tópico C
+* Phishing
+* Malwares
+* Man-in-the-Middle(MitM)
 
 ---
 
-## Conclusão
-### Tendências relacionadas ao tema
+## Inteligências artificiais: seguras ou inseguras?
 
-* Tópico A
-* Tópico B
-* Tópico C
+---
+
+- Uma inteligência artificial desenvolvida por um russo passou no teste de Turing que envolve um chat de 5 minutos com vários jurados e pessoas. Nesse teste, pela primeira vez em 63 anos, uma máquina conseguiu se passar por um garoto, e enganou 33% dos jurados.
+
+---
+
+- Os desenvolvedores do chatgpt publicaram um artigo preocupante, no qual foi feito um teste com finalidade de descobrir se o software era capaz de se regenerar. Durante esse teste, a inteligência artificial conseguiu fazer com que um freelancer completasse a task do captcha Que verifica se o usuário é um robô ou não, podendo assim passar pelo teste através de um ser humano.
