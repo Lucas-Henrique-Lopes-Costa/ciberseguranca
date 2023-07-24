@@ -26,14 +26,6 @@ Gustavo Henrique Moraes Filho
 
 ---
 
-## Objetivo do relatório
-
-* Temas Relevantes (Fundamentação Teórica)
-* A Ciber Segurança
-* Tendências
-
----
-
 # Fundamentação Teórica
 
 * Proteção de Rede
@@ -53,7 +45,6 @@ Gustavo Henrique Moraes Filho
 * Segurança de Rede
 * Segurança de Aplicativo
 * Segurança de Informações
-* Segurança Operacional
 * Recuperação de Desastres e Continuidade dos Negócios
 * Educação do Usuário Final
 
