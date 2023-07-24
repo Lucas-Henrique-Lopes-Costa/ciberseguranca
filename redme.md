@@ -22,7 +22,6 @@ Gustavo Henrique Moraes Filho
 ## Contexto
 
 * Origem da Internet
-* A pica do Lucas é ENORME (8.3 cm é pequeno, lucas)
 * Armazenamento de Dados
 
 ---
